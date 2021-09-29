@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.container{
+    margin: 0 100px;
+}
+
+.searchBar{
+    background-color: rgb(223, 221, 221);
+}
+
+.searchBar p{
+    margin: 0;
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+}
+
+.btn button{
+    padding: 2px 3px;
+}
+
+.searchBar input{
+    width: 317px;
+    height: 22px;
+}
+
+
+.box1{
+    background-color: rgb(126, 229, 218);
+    float: left;
+    padding: 5px 10px;
+    margin-top: 2px;
+    margin-right: 2px;
+    width: 35%;
+    text-align: center;
+    height: 90px;
+}
+
+.box2{
+    background-color: rgb(112, 204, 194);
+    float: left;
+    padding: 5px;
+    margin-top: 2px;
+    margin-right: 2px;
+    width: 20%;
+    text-align: center;
+}
+
+.box3{
+    background-color: rgb(105, 200, 180);
+    float: left;
+    padding: 5px;
+    margin-top: 2px;
+    width: 44.6%;
+    text-align: center;
+    height: 90px;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 110px;
+}
+
+
